@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Van Nghia Huynh</h1>
-<h3 align="center">I'm a final-year **Software Engineering student** based in Ho Chi Minh City. I possess a unique blend of skills in **Modern Web Development** and **Enterprise Resource Planning (SAP)**.</h3>
+<h3 align="center">I'm a final-year Software Engineering student based in Ho Chi Minh City. I possess a unique blend of skills in Modern Web Development and Enterprise Resource Planning (SAP).</h3>
 
 - 🔭 I’m currently working on **Currently, I'm focusing on building scalable web applications and exploring the SAP Cloud ecosystem (BTP/RAP).**
 
